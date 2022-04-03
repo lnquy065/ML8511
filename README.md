@@ -1,6 +1,6 @@
 ML8511 UV sensor library for Arduino.
 
-![img](https://github.com/lnquy065/ML8511/blob/master/ml8511.jpg?raw=true)
+![img](https://github.com/lnquy065/ML8511/blob/master/ml8511-2.png?raw=true)
 
 ### Usage
 
